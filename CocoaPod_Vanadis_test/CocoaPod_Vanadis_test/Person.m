@@ -18,4 +18,8 @@
 {
     NSLog(@"Adio Mundo!!");
 }
++ (void) hola
+{
+    NSLog(@"Adio Mundo!!");
+}
 @end

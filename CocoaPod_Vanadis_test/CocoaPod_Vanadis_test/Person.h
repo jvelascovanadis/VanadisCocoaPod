@@ -12,5 +12,6 @@
 
 + (void) salute;
 + (void) bye;
++ (void) hola;
 
 @end
